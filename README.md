@@ -16,8 +16,8 @@ The main challenge in this project was deciding between Count Vectorizer and TF-
 ## Methodology
 
 ### **ETL (Extract, Transform, Load)**
--Create the function to load the data from the CSV file containing text and labeled data.
--Create the function to preprocess the data by standardizing it, removing non-alphabetic characters, and adjusting column names.
+- Create the function to load the data from the CSV file containing text and labeled data.
+- Create the function to preprocess the data by standardizing it, removing non-alphabetic characters, and adjusting column names.
 - Create the function to combine the words in each row into a single string, forming a list of headlines
 
 ### **Feature Extraction**
